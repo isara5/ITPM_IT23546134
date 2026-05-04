@@ -7,6 +7,9 @@
 - Batch: Year 3 - Semester 1
 
 ---
+##  Repository
+
+Git Link - https://github.com/isara5/ITPM_IT23546134.git
 
 ### Project Overview
 The main objective of this assignment is to evaluate the correctness of the "Chat Sinhala" transliteration function provided by [PixelsSuite Chat Translator](https://www.pixelssuite.com/chat-translator). This project identifies 50 specific scenarios where the system fails to correctly convert chat-style Singlish into Sinhala, covering all 24 input types specified in the assignment guidelines.
